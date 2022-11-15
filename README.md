@@ -263,4 +263,4 @@ Function Prototypes
 ## Authors :black_nib:
 
 * __George Victor__ (https://github.com/Bro-vick)>
-* __Mayowa Arogbodo__ (https://github.com/Mayorkay15)>
+* __Mayowa Arogbodo__  (https://github.com/Mayorkay15)>
